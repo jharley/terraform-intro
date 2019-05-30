@@ -1,3 +1,5 @@
 setup-env.sh
 terraform.tfstate*
 .terraform/
+# ignore ppt temp files
+slides/~$Intro to Terraform.pptx
