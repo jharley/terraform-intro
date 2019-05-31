@@ -4,7 +4,7 @@ This repository is all of the material that was used for [my talk](https://embed
 
 ## Scenario
 
-You -- an intrepid infrasturucture engineer -- have been tasked with a green field application project on AWS. The team decided that embracing the codification of infrastructure as well as the applicaiton itself was crucial.
+You -- an intrepid infrastructure engineer -- have been tasked with a green field application project on AWS. The team decided that embracing the codification of infrastructure as well as the applicaiton itself was crucial.
 
 Two crucial problems:
 1. Nobody on the team has codified infrastructure before
